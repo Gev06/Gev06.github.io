@@ -1,0 +1,33 @@
+.avatar {
+    width: 200px;
+    border-radius: 15%;
+    height: auto;
+    object-fit: cover;
+} 
+.portfolio {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.flex-container {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    gap: 80px;
+    margin: 20px;
+    align-items: center;
+    justify-content: flex-start;
+}
+.personalData {
+    text-align: left;
+}
+#cv {
+    height: 900px;
+    width: 500px;
+    margin: 10px;
+    border: 3px solid;
+    background-color: rgb(118, 165, 175);
+}
+
+#fon {
+    background-color: rgb(11, 96, 136);
+}
